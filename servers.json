@@ -5,7 +5,7 @@
     "author": "Possible Panda",
     "authorLink": "https://discord.gg/SuzVZYHxwP",
     "id": "",
-    "endpoint": "https://pma.fhgdps.com/",
+    "endpoint": "purgegdps.ps.fhgdps.com/",
     "timestampSuffix": " ago",
     "downloadsDisabled": true,
     "pinned": true
